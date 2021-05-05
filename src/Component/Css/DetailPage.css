@@ -1,0 +1,23 @@
+.main-detail {
+  background-color: #adda3b;
+  width: 500px;
+  border: 10px solid #4a5d19;
+  padding: 50px 30px;
+  margin-left: 20rem;
+  margin-top: 10px;
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+}
+
+.main-detail h1.detail-info {
+  text-align: center;
+  padding-bottom: 30px;
+  font-weight: 100px;
+}
+.avatar-detail {
+  margin-left: 160px;
+}
+
+h2 {
+  text-decoration: underline;
+}
